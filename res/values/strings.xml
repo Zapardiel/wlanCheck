@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wlan Check</string>
+    <string name="title_storage_permission">"Need Storage Permissions"</string>
+    <string name="text_storage_permission">"Storage location is needed to save a Log of the App activity"</string>
+    <string name="title_location_permission">"Need Location Permissions"</string>
+    <string name="text_location_permission">"Location Permissions is needed to Scan WiFi networks (since A6)"</string>
+    <string name="ok">"Accept"</string>
+</resources>
